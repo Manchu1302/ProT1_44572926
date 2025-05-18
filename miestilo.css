@@ -10,3 +10,15 @@ body {
     font-weight: bold;
     font-style: italic;
 }
+
+.seccion-relojes {
+    background-color: #fff;
+     text-align: center;
+     font-weight: bold;
+    font-style: italic;
+    border: 2px solid #ccc;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+}
